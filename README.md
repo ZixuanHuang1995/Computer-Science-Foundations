@@ -13,3 +13,9 @@
 ## 01
 
 ## Artificial Intelligence
+
+## 程式語言
+
+## 資訊安全
+
+## 計算機組織
