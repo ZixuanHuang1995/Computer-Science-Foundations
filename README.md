@@ -2,7 +2,7 @@
 
 ## Alan Mathison Turing
 
-## Infomatics 
+## Informatics 
 
 ## Data Communications and Computer Networks
 
