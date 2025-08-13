@@ -1,6 +1,8 @@
 # Computer-Science-Foundations
 
 ## Alan Mathison Turing
+1. Imitation Game
+2. Digital Computer
 
 ## Informatics 
 
