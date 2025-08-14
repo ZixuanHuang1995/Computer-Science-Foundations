@@ -12,6 +12,14 @@
 
 ## Operation Systems
 
+Process Lifecycle
+1. new → (admitted) → ready
+2. ready → (scheduler dispatch) → running
+3. running → (I/O or event wait) → waiting
+4. waiting → (I/O or event completion) → ready
+5. running → (exit) → terminated
+6. running → (interrupt) → ready
+
 ## 01
 
 ## Artificial Intelligence
