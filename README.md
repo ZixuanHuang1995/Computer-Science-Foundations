@@ -7,11 +7,11 @@ We can only see a short distance ahead, but we can see plenty there that needs t
    - Imitation Game
    - Digital Computer
 
-## Informatics 
+## 01
 
-## Data Communications and Computer Networks
+## Algorithm
 
-## Database
+## Programming Language
 
 ## Operation Systems
 
@@ -23,12 +23,13 @@ Process Lifecycle
 5. running → (exit) → terminated
 6. running → (interrupt) → ready
 
-## 01
+## Computer Networks
+
+## Database
+
+## Information security
 
 ## Artificial Intelligence
 
-## 程式語言
+## Informatics 
 
-## 資訊安全
-
-## 計算機組織
