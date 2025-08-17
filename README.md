@@ -1,9 +1,11 @@
 # Computer-Science-Foundations
 
 ## Alan Mathison Turing
+We can only see a short distance ahead, but we can see plenty there that needs to be done.
 1. The Enigma
-2. Imitation Game
-3. Digital Computer
+2. Computing Machinery and Intelligence
+   - Imitation Game
+   - Digital Computer
 
 ## Informatics 
 
