@@ -10,6 +10,11 @@ We can only see a short distance ahead, but we can see plenty there that needs t
 ## 01
 
 ## Algorithm
+- Iterative
+- Recursive
+- Greedy Approach
+- Divide-and-Conquer
+- Dynamic Programming
 
 ## Programming Language
 
